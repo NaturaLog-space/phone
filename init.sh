@@ -1,4 +1,6 @@
 pkg install openssh
+ssh-keygen -A
+passwd
 pkg install termux-api
 cd ~
 cd .termux
