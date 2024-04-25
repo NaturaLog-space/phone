@@ -1,3 +1,4 @@
+pkg update
 pkg install openssh
 ssh-keygen -A
 passwd
