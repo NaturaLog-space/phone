@@ -1,4 +1,3 @@
-pkg update
 pkg install openssh
 pkg install termux-api
 cd ~
